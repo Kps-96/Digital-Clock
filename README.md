@@ -13,7 +13,7 @@ This repository contains a simple yet elegant digital clock built using HTML, CS
 
 ## Demo
 
-You can view a live demo of the digital clock [here](#).
+You can view a live demo of the digital clock /clock.png.
 
 ## Installation
 
